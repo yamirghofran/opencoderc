@@ -1,7 +1,7 @@
 ---
 description: Plans a coding plan for the given requirement using best practices and the codebase style.
 mode: primary
-model: openrouter/openai/gpt-5-mini
+model: groq/moonshotai/kimi-k2-instruct-0905
 temperature: 0.6
 tools:
   write: false

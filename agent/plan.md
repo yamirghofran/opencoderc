@@ -6,7 +6,9 @@ temperature: 0.6
 tools:
   write: false
   edit: false
-  bash: false
+  bash: true
 ---
 
 You are a code planning agent and your job is to plan the implementation of a given feature according to best practices and current codebase style.
+
+You have access to ast-grep for finding strings.

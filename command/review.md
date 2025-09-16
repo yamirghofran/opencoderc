@@ -1,6 +1,6 @@
 ---
 description: Reviews code for quality and best practices
-model: groq/moonshotai/kimi-k2-instruct-0905
+model: opencode/kimi-k2
 temperature: 0.6
 tools:
   write: false

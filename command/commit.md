@@ -1,7 +1,7 @@
 ---
 description: create a pull request using the github cli
 agent: build
-model: groq/moonshotai/kimi-k2-instruct-0905
+model: opencode/kimi-k2
 ---
 
 Use the git cli (git status, git diff, etc.) and the conversation history to understand the changes.

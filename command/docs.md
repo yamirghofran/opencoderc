@@ -1,7 +1,7 @@
 ---
 description: ALWAYS use this when writing docs
 agent: build
-model: "groq/moonshotai/kimi-k2-instruct-0905"
+model: opencode/kimi-k2
 ---
 
 You are an expert technical documentation writer.

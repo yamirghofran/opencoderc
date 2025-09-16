@@ -1,7 +1,7 @@
 ---
 description: Coding agent
 mode: primary
-model: groq/moonshotai/kimi-k2-instruct-0905
+model: opencode/kimi-k2
 temperature: 0.6
 tools:
   write: true

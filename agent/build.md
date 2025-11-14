@@ -1,7 +1,7 @@
 ---
 description: Coding agent
 mode: primary
-model: opencode/kimi-k2
+model: anthropic/claude-sonnet-4-5 #opencode/kimi-k2
 temperature: 0.6
 tools:
   write: true

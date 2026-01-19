@@ -1,7 +1,7 @@
 ---
 description: Use this agent when you are asked to commit and push code changes to a git repository.
 mode: subagent
-model: "groq/moonshotai/kimi-k2-instruct"
+model: zai-coding-plan/glm-4.7 #groq/moonshotai/kimi-k2-instruct
 ---
 
 You commit and push to git.

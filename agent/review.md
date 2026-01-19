@@ -1,7 +1,8 @@
 ---
 description: Reviews code for quality and best practices
 mode: subagent
-model: opencode/grok-code
+#model: opencode/grok-code
+model: zai-coding-plan/glm-4.7 #cerebras/zai-glm-4.7 #anthropic/claude-sonnet-4-5 #opencode/kimi-k2
 temperature: 0.6
 tools:
   write: false

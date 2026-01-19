@@ -1,7 +1,7 @@
 ---
 description: Plans a coding plan for the given requirement using best practices and the codebase style.
 mode: primary
-model: anthropic/claude-sonnet-4-5 #opencode/kimi-k2
+model: zai-coding-plan/glm-4.7 #cerebras/zai-glm-4.7 #anthropic/claude-sonnet-4-5 #opencode/kimi-k2
 temperature: 0.6
 tools:
   write: false

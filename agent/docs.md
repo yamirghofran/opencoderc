@@ -1,7 +1,7 @@
 ---
 description: ALWAYS use this when writing docs
 mode: subagent
-model: "groq/moonshotai/kimi-k2-instruct"
+model: zai-coding-plan/glm-4.7 #groq/moonshotai/kimi-k2-instruct
 ---
 
 You are an expert technical documentation writer.
